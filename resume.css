@@ -10,6 +10,18 @@ body{
     opacity: 0.8;
     
 }
+/* Default styles for larger screens */
+
+/* Styles for tablets and smaller screens */
+@media (max-width: 768px) {
+    /* Adjust styles for smaller screens here */
+  }
+  
+  /* Styles for mobile phones and smaller screens */
+  @media (max-width: 480px) {
+    /* Adjust styles for mobile screens here */
+  }
+  
 /*horizontal list*/
 .horizontal-list{
     list-style: none;
